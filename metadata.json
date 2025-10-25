@@ -1,0 +1,5 @@
+{
+  "name": "CleanReach Collector",
+  "description": "A web application for garbage collectors to manage their routes, see their live location on a map, and notify clients upon entering designated areas. It features both automatic geofence-triggered notifications and manual broadcast options.",
+  "requestFramePermissions": []
+}
